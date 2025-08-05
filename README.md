@@ -48,7 +48,7 @@ Each folder corresponds to a chapter, named simply and cleanly.
 | 06         | Eigenvalues and Eigenvectors                   | `06-eigen/`                 |
 | 07         | Matrix Factorizations                          | `07-factorizations/`        |
 | 08         | Matrices and Graphs                            | `08-graphs/`                |
-| 09         | Functions                                       | `09-functions/`             |
+| 09         | Functions                                      | `09-functions/`             |
 | 10         | Numbers, Sequences, and Series                 | `10-sequences/`             |
 | 11         | Topology, Limits, and Continuity               | `11-topology/`              |
 | 12         | Differentiation                                | `12-differentiation/`       |

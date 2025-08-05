@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/HashimThePassionate/machine-learning-for-mathematics?style=social" />
 </p>
 
-> **Machine Learning for Mathematics** is a guided code-based learning journey 📘  It is built to bridge the gap between theory and implementation in machine learning mathematics — covering **Linear Algebra, Calculus, Optimization, and Probability** with real code.
+> **Machine Learning for Mathematics** is a guided code-based learning journey.  It is built to bridge the gap between theory and implementation in machine learning mathematics — covering **Linear Algebra, Calculus, Optimization, and Probability** with real code.
 
 
 ## 📚 Table of Contents
